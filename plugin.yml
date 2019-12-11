@@ -1,0 +1,6 @@
+---
+name: MultiProtocol
+main: ItzLightyHD\Main
+api: [3.0.0, 3.8.8, 3.9.0]
+version: 1.0
+...

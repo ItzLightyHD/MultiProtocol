@@ -24,6 +24,10 @@ accept-protocol:
 - anotherprotocol
 ...
 ```
+### Where i can find the protocols i need?
+1. Go to [this link](https://minecraft.gamepedia.com/Protocol_version)
+2. Go to Bedrock Edition section
+3. Here you have all Bedrock Edition protocols, so enjoy! ;)
 
 ## Contributing
 You can contribute, just subscribing to my [YouTube](https://youtube.com/itzlightyhd?sub_confirmation=1) channel.
